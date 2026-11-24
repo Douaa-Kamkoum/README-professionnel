@@ -8,7 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Networks+%26+Services+Student;Interested+in+Cybersecurity;Exploring+IT+Infrastructure;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=douaa-25&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Networks%20%26%20Cybersecurity-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Tunisia-red?style=flat-square"/>
 </p>
 
 </div>
@@ -16,8 +17,6 @@
 ---
 
 ## 🚀 About Me
-
-<img align="right" width="170" src="https://github.com/douaa-25.png" alt="Douaa's GitHub Profile Picture"/>
 
 I'm a student in **Computer Networks and Services (RSI)** at **ISET Bizerte, Tunisia**.
 
@@ -30,8 +29,6 @@ I'm passionate about:
 - 📊 Network Monitoring & Troubleshooting
 
 I enjoy working on practical technical projects, exploring new technologies, and continuously improving my skills in IT infrastructure and cybersecurity.
-
-<br clear="right"/>
 
 ---
 
@@ -101,8 +98,8 @@ Institut Supérieur des Études Technologiques de Bizerte (ISET Bizerte), Tunisi
 <tr>
 <td>💻</td>
 <td>
-<strong>Baccalaureate in Computer Science</strong><br/>
-Tunisia
+<strong>Baccalaureate in Computer Science – 2024</strong><br/>
+Lycée Ras Jebel, Tunisia
 </td>
 </tr>
 </table>
@@ -124,11 +121,15 @@ Tunisia
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=douaa-25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douaa-25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p>
+Explore my repositories to discover my technical projects, practical work, and continuous learning journey.
+</p>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=douaa-25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/douaa-25?tab=repositories">
+<strong>🚀 Explore My Projects</strong>
+</a>
 
 </div>
 
@@ -156,6 +157,7 @@ Tunisia
 
 *Passionate about IT Infrastructure, Networks and Cybersecurity.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:6A5ACD&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:6A5ACD&height=120&section=footer" width="100%"/>
 
 </div>
+
