@@ -5,12 +5,17 @@
 
 ### 🎓 IT Student | 🌐 Computer Networks | 🖥️ System Administration | 🔐 Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Networks+%26+Services+Student;Interested+in+Cybersecurity;Exploring+IT+Infrastructure;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Computer+Networks+%26+Services+Student;Interested+in+Cybersecurity;Exploring+IT+Infrastructure;Always+Learning+%26+Building" alt="Typing SVG"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Networks%20%26%20Cybersecurity-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Location-Tunisia-red?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Douaa-Kamkoum&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://img.shields.io/badge/Focus-Networks%20%26%20Cybersecurity-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Tunisia-red?style=flat-square"/>
 </p>
+
+<a href="https://github.com/Douaa-Kamkoum">
+<img src="https://github.com/Douaa-Kamkoum.png" width="150" alt="Douaa's GitHub Profile Picture"/>
+</a>
 
 </div>
 
@@ -121,15 +126,27 @@ Lycée Ras Jebel, Tunisia
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Douaa-Kamkoum&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<p>
-Explore my repositories to discover my technical projects, practical work, and continuous learning journey.
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douaa-Kamkoum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<a href="https://github.com/douaa-25?tab=repositories">
-<strong>🚀 Explore My Projects</strong>
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Douaa-Kamkoum&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📂 My Projects
+
+<div align="center">
+
+<a href="https://github.com/Douaa-Kamkoum?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<p>Discover my practical projects, technical labs, and learning journey in IT infrastructure and cybersecurity.</p>
 
 </div>
 
@@ -143,7 +160,7 @@ Explore my repositories to discover my technical projects, practical work, and c
 <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/douaa-25" target="_blank">
+<a href="https://github.com/Douaa-Kamkoum" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -160,4 +177,3 @@ Explore my repositories to discover my technical projects, practical work, and c
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:6A5ACD&height=120&section=footer" width="100%"/>
 
 </div>
-
